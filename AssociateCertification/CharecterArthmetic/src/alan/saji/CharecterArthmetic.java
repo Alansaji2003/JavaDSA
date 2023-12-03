@@ -17,7 +17,7 @@ public class CharecterArthmetic {
         // exam examples
         char letter = 65; // A + 1 -> B (66) + 1 -> C(67) + 1 -> D (68)
         int myInt = letter + 3;
-        char myNewLetter = (char)myInt;
+        char myNewLetter = (char) myInt;
 
         System.out.println("letter= " + letter);
         System.out.println("myInt= " + myInt);
