@@ -32,5 +32,11 @@ public class CharecterArthmetic {
         System.out.println("newChar= " + newChar);
         System.out.println("b= " + b);
         System.out.println("c= " + c);
+
+        boolean x = true,z=true;
+        int y = 20;
+        x = (y!=10) ^ (z=false);
+        System.out.println(x+","+y+","+z);
+
     }
 }
