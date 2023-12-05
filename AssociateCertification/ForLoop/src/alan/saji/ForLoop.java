@@ -28,6 +28,7 @@ public class ForLoop {
             System.out.println("y= " + y);
         }
 
+
         System.out.println("x= " + x);
 
         int d = 10;
@@ -37,8 +38,16 @@ public class ForLoop {
 //        for(long z = 0, int d = 4; z < 10; z++, d++) {}
 
         for (long z = 0; z < 10; z++) {
+            break;
         }
         for (double xy = 0.0; xy < 10.5; xy += 0.5) {
+            break;
         }
+//        int x1 =1;
+//        int xx2 = 2;
+//        boolean b = xx2 >= x1; This line compiles
+//        System.out.println(b);
+
     }
+
 }
