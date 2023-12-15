@@ -10,16 +10,16 @@ public class MultiDimention {
         int[][] array = new int[2][4]; // 2 rows and 4 columns
         int anotherArray[][] = new int[2][4];
 
-        int[] myIntArray[] = new int[2][4];
+        int[] myIntArray[] = new int[2][4];  // confusing but works
 
-        String[][] my2dArray = new String[][]{
+        String[][] my2dArray = new String[][]{                      //asymmetrical
                 {"One", "Two"}, // 1st row 2 elements
                 {"Three", "Four", "Five"}, // 2nd row 3 elements
                 {"Six", "Seven", "Eight", "Nine"}, // 3th row with 4 elements
                 null
         };
 
-        int[][] numberTable = new int[2][3];
+        int[][] numberTable = new int[2][3];    //symmetric
         numberTable[0][0] = 1;
         numberTable[0][1] = 2;
         numberTable[0][2] = 3;
