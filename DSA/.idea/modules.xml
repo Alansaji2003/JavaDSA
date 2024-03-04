@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BitManipulation/BitManipulation.iml" filepath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ButterFlyPattern/ButterFlyPattern.iml" filepath="$PROJECT_DIR$/ButterFlyPattern/ButterFlyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiamondPattern/DiamondPattern.iml" filepath="$PROJECT_DIR$/DiamondPattern/DiamondPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberPyramid/NumberPyramid.iml" filepath="$PROJECT_DIR$/NumberPyramid/NumberPyramid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromicPattern/PalindromicPattern.iml" filepath="$PROJECT_DIR$/PalindromicPattern/PalindromicPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegexDuplicateWord/RegexDuplicateWord.iml" filepath="$PROJECT_DIR$/RegexDuplicateWord/RegexDuplicateWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegexUsername/RegexUsername.iml" filepath="$PROJECT_DIR$/RegexUsername/RegexUsername.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidRhombus/SolidRhombus.iml" filepath="$PROJECT_DIR$/SolidRhombus/SolidRhombus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/StringBuilder/StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/intro.iml" filepath="$PROJECT_DIR$/intro/intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindrome-Hackerank/palindrome-Hackerank.iml" filepath="$PROJECT_DIR$/palindrome-Hackerank/palindrome-Hackerank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regex/regex.iml" filepath="$PROJECT_DIR$/regex/regex.iml" />
+    </modules>
+  </component>
+</project>
