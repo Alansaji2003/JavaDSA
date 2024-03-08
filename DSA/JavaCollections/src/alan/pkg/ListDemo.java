@@ -10,6 +10,16 @@ public class ListDemo {
         list.add("alan");
         list.add("alan");
         System.out.println(list);
+        // List allows you to add null values
+        list.add(null);
+        list.add(null);
+        System.out.println(list);
+
+        // insertion order
+        // list is ordered , same way we inserted
+        // access elements from the list
+        System.out.println(list.get(0));
+
 
 
     }
