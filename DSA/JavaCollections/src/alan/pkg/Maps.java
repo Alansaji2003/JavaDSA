@@ -10,6 +10,8 @@ public class Maps {
 
         //add key value pair to map
         number.put("ALAN",1);
+        //duplicate not allowed
+        number.put("ALAN",1);
         System.out.println(number);
         System.out.println(number.containsKey("ALAN"));
         //containsValue() also

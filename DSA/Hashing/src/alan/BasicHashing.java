@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class BasicHashing {
 
-    static int[] hash = new int[10000000];
+    static int[] hash = new int[1000000000]; // 10^9 max
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
