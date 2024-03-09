@@ -9,7 +9,7 @@ public class palindromeOrNot {
         if(i > str.length()/2){
             return true;
         }
-        if(str.charAt(i) != str.charAt(str.length() - i - 1)){
+        if(str.charAt(i) != str.charAt(str.length() - i - 1)){ // start and end
             return false;
         }
 
