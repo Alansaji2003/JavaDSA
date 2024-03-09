@@ -31,6 +31,12 @@ public class hashMapping {
             }
         }
 
+        //iterate in the map
+        // stores in an ordered manner
+        for(Map.Entry<Integer, Integer> entry : hash.entrySet()){
+            System.out.println("key: "+entry.getKey() + "Value: "+entry.getValue());
+        }
+
         System.out.println(hash);
         System.out.println("Enter number of queries");
         int q = sc.nextInt();
