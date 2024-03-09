@@ -32,7 +32,7 @@ public class hashMapping {
         }
 
         //iterate in the map
-        // stores in an ordered manner
+        // stores in an unordered manner
         for(Map.Entry<Integer, Integer> entry : hash.entrySet()){
             System.out.println("key: "+entry.getKey() + "Value: "+entry.getValue());
         }
