@@ -4,11 +4,20 @@ import java.util.Arrays;
 
 public class bubble_sort {
     static void sort(int[] arr){
+        //from n -1 to 0
         for (int i = arr.length; i >= 0; i--) {
+            int didSwap = 0; //optimizing
+            // from 0 to i    (-1 because swapping should only go till 2nd last element)
             for (int j = 0; j < i - 1; j++) {
                 if(arr[j]>arr[j+1]){
-
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                    didSwap = 1;
                 }
+            }
+            if(didSwap == 0){
+                break;     //optimizing
             }
         }
     }
